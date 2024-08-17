@@ -1,0 +1,7 @@
+still-alive - Portal end credits on terminal
+--------------------------------------------
+TODO:
+- transcribe all lyrics to song.h;
+- display frame and ascii art;
+- make time functions more portable;
+- add support to lyrics file (?);
